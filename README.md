@@ -20,7 +20,7 @@
 
 &nbsp;
 
-~~:arrow_left: [*poprzedni zestaw zadań (**PHP:  ...**)*](https://github.com/devmentor-pl/practice-php)~~
+[comment]: #  (~~:arrow_left: [*poprzedni zestaw zadań (**PHP:  ...**)*](https://github.com/devmentor-pl/practice-php)~~)
 
 ## Jak prawidłowo wykonać zadania?
 
