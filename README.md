@@ -20,8 +20,6 @@
 
 &nbsp;
 
-[comment]: #  (~~:arrow_left: [*poprzedni zestaw zadań (**PHP:  ...**)*](https://github.com/devmentor-pl/practice-php)~~)
-
 ## Jak prawidłowo wykonać zadania?
 
 > :no_entry: *Jeśli poniższa instrukcja nie jest dla Ciebie wystarczająca to możesz skorzystać z [bezpłatnego warsztatu JavaScript: Narzędzia](https://devmentor.pl/workshop-js-tools), w którym znajdziesz dokładniejsze informacje.*
