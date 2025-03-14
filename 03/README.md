@@ -4,7 +4,7 @@
 
 # `#03` Python: Wprowadzenie
 
-Utwórz plik `app.py`, w którym utworzysz wszystkie rodzaje zmiennych jakie do tej pory poznałeś i przypiesz do nich wartości.
+Utwórz plik `app.py` w obecnym katalogu i zadeklaruj wszystkie rodzaje zmiennych jakie do tej pory poznałeś i przypiesz do nich odpowiednie wartości.
 
 Następnie wyświetl zawartość każdej zmiennej w terminalu.
 
