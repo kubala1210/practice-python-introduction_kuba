@@ -5,7 +5,7 @@
 # `#04` Python: Wprowadzenie
 
 Przygotuj w pliku `app.py` kod, który pozwoli w wygodny sposób uzupełniać ciąż znaków różnymi wartościami na 2 sposoby:
-- funkcja `[format()](https://docs.python.org/3/library/functions.html#format)`
+- funkcja [format()](https://docs.python.org/3/library/functions.html#format)
 - zapis typu [f-string](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
 
 Wykorzystaj poniższy ciąg znaków:
