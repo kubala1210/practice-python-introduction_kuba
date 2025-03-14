@@ -4,9 +4,9 @@
 
 # `#02` Python: Wprowadzenie
 
-Utwórz plik `app.py`, w którym utworzysz kod poprawny składniowo. 
+Utwórz plik `app.py` w obecnym katalogu i napisz kod poprawny składniowo. 
 
-Utwórz jakąś zmienną, napisz instrukcję warunkową `if`, dopisz komentarz jedno oraz wieloliniowy oraz wyświetl jakiś napisa w terminalu 
+Utwórz jakąś zmienną, napisz instrukcję warunkową `if`, dopisz komentarz jedno oraz wieloliniowy oraz wyświetl jakiś napisa w terminalu - użyj funkcji [print()](https://docs.python.org/3/library/functions.html#print).
 
 
 &nbsp;
