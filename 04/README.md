@@ -4,7 +4,12 @@
 
 # `#04` Python: Wprowadzenie
 
-Tutaj treść
+Przygotuj w pliku `app.py` kod, który pozwoli w wygodny sposób uzupełniać ciąż znaków różnymi wartościami na 2 sposoby:
+- funkcja `[format()](https://docs.python.org/3/library/functions.html#format)`
+- zapis typu [f-string](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
+
+Wykorzystaj poniższy ciąg znaków:
+> Mam na imię [zmienna imię], od [zmienna tygodnie] tygodni uczę się programowania. Moim celem jest [zmienna cel].
 
 
 &nbsp;
