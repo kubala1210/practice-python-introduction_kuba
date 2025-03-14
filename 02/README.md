@@ -4,7 +4,9 @@
 
 # `#02` Python: Wprowadzenie
 
-Tutaj treść
+Utwórz plik `app.py`, w którym utworzysz kod poprawny składniowo. 
+
+Utwórz jakąś zmienną, napisz instrukcję warunkową `if`, dopisz komentarz jedno oraz wieloliniowy oraz wyświetl jakiś napisa w terminalu 
 
 
 &nbsp;
