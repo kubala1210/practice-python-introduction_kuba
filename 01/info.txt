@@ -1,3 +1,3 @@
-Wersja Python: [np. 3.0.0]
-Wersja PIP: [np. 24.0.0]
-IDE - nazwa oraz strona domowa: [np. Visual Studio Code, https://code.visualstudio.com/]
+Wersja Python: Python 3.13.1
+Wersja PIP: pip 25.0.1
+IDE Visual Studio Code, https://code.visualstudio.com/
